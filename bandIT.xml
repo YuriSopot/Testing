@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>IT Banda</name>
+    <people>
+        <element>
+            <firstname>Andrew</firstname>
+            <Lastname>Kolomoets</Lastname>
+            <Profession>Engineer</Profession>
+            <Range>Junior</Range>
+            <salary>1500</salary>
+        </element>
+        <element>
+            <firstname>Dmitri</firstname>
+            <Lastname>Antonov</Lastname>
+            <Profession>tester</Profession>
+            <Range>Junior</Range>
+            <salary>1300</salary>
+        </element>
+        <element>
+            <firstname>Vasiliy</firstname>
+            <Lastname>Paramonov</Lastname>
+            <Profession>programmer</Profession>
+            <Range>Junior</Range>
+            <salary>1100</salary>
+        </element>
+        <element>
+            <firstname>Kostya</firstname>
+            <Lastname>Alekseev</Lastname>
+            <Profession>Engineer</Profession>
+            <Range>Middle</Range>
+            <salary>1550</salary>
+        </element>
+        <element>
+            <firstname>Aleksandra</firstname>
+            <Lastname>Novitskaia</Lastname>
+            <Profession>tester</Profession>
+            <Range>Middle</Range>
+            <salary>1620</salary>
+        </element>
+        <element>
+            <firstname>Tamara</firstname>
+            <Lastname>Kvasha</Lastname>
+            <Profession>programmer</Profession>
+            <Range>Middle</Range>
+            <salary>1700</salary>
+        </element>
+        <element>
+            <firstname>Michail</firstname>
+            <Lastname>Tchigir</Lastname>
+            <Profession>tester</Profession>
+            <Range>Senior</Range>
+            <salary>1800</salary>
+        </element>
+    </people>
+</root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <name id="New_MY_IT_Band">
+        <firstName>Michail</firstName>
+        <lastName>Tchigir</lastName>
+        <Profession>tester</Profession>
+        <Range>Senior</Range>
+        <salary>1800</salary>
+    </name>
+    <name id="New_MY_IT_Band">
+        <firstName>Tamara</firstName>
+        <lastName>Kvasha</lastName>
+        <Profession>programmer</Profession>
+        <Range>Middle</Range>
+        <salary>1700</salary>
+    </name>
+    <name id="New_MY_IT_Band">
+        <firstName>Andrew</firstName>
+        <lastName>Kolomoets</lastName>
+        <Profession>Engineer</Profession>
+        <Range>Junior</Range>
+        <salary>1500</salary>
+    </name>
+    <name id="New_MY_IT_Band">
+        <firstName>Kostya</firstName>
+        <lastName>Alekseev</lastName>
+        <Profession>Engineer</Profession>
+        <Range>Middle</Range>
+        <salary>1550</salary>
+    </name>
+</root>
